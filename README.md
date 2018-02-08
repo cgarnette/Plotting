@@ -1,2 +1,3 @@
 # Plotting-Practice
-Plotting weather extremes in Ann Arbor, Michigan from 2005-2015
+Weather
+  - Plotting weather extremes in Ann Arbor, Michigan from 2005-2015
