@@ -14,6 +14,7 @@ Prerequisites:
   ```
 About This Project
 
+![alt text](unemployment_chart.png)
   - My visual shows the growth and decline of the unemployment rate for those with just a high school diploma as well as those with some college experience. It also shows the general unemployment rate for the area of Ann Arbor, MI. 
   - The visual addresses my question by showing explicitly the trends for each of these variables in direct relation to one another. I thought about incorporating the labor force participation rate (as that can sometimes explain a decrease in unemployment) however I decided against it for fear of over clutter.
 
